@@ -1,13 +1,14 @@
-###########################################
-#  ___             _               _   _  #
-# | __|__ _  _ _ _(_)___ _ _  __ _/ | / | #
-# | _/ _ \ || | '_| / -_) '_| \ V / |_| | #
-# |_|\___/\_,_|_| |_\___|_|    \_/|_(_)_| #  
-#                                         #
-# Fourier v1.1                            #
-# 29/04/2013                              #
-# James Drewitt (james.drewitt@gmail.com) #
-###########################################
+##################################################
+#  ___             _               _   _         #
+# | __|__ _  _ _ _(_)___ _ _  __ _/ | / |        #
+# | _/ _ \ || | '_| / -_) '_| \ V / |_| |        #
+# |_|\___/\_,_|_| |_\___|_|    \_/|_(_)_|        #  
+#                                                #
+# Fourier v1.1                                   #
+# Copyright 2018, James W E Drewitt              #
+# 29/04/2013                                     #
+# Dr James W E Drewitt (james.drewitt@gmail.com) #
+##################################################
 import matplotlib
 matplotlib.use('TkAgg')
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2TkAgg
