@@ -1,2 +1,2 @@
 # Fourier v1.1
-Python Fourier transform of structure factor to pair distribution function
+Code for fast Fourier transform of structure factor to pair distribution function
